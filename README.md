@@ -9,4 +9,4 @@ I took a course in Computer Structures, where we did low-level programming on Di
 To install, download the STM32f30x files, plug in the Discovery board, then run `make install`. There may be other magical things you gotta do to get the Discovery board working properly, so Google will be your friend.
 
 ## Preview
-[Preview](https://i.imgur.com/mTeTS0B.gifv) Preview is too large for Github. Click on the link to view.
+[Preview](https://i.imgur.com/mTeTS0B.gifv) is too large for Github. Click on the link to view.
